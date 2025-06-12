@@ -1,0 +1,3 @@
+O meu projeto no p5.js mostra a importância da conexão entre o campo e a cidade, mostrando como cada um tem a sua importância para nossas vidas. No meu projeto eu adicionei um fundo azul com uma parte marron representando a terra,
+adicionei alguns emojis de plantas e um emoji de fazendeiro, começa com as plantas prontas para colher o fazendeiro e uma mensagem " Vamos ajudar o chico a colher a soja!" logo, quando aperto a tecla A ele anda para esquerda, assim que ele passa em cima da
+soja ela some como se ele tivesse colhido ele, e então aparece a seguinte mensagem " Agora vamos elvar para a cidade".
